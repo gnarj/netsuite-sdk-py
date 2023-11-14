@@ -5,6 +5,7 @@ of a :class:`~netsuitesdk.client.NetSuiteClient` instance `ns`.
 
 COMPLEX_TYPES = {
     'ns0': [
+        'AttachBasicReference',
         'BaseRef',
         'GetAllRecord',
         'GetAllResult',
